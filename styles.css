@@ -1,5 +1,31 @@
 /* custom stylesheet for jacobelstein.com */
 
-#starbird, #welcome, #email {
+a:link{
+	color: darkblue;
+}
+
+a:hover{
+	color: purple;
+}
+
+.container{
+	margin: 25px auto;
+}
+
+#starbird, #welcome {
 	text-align: center;
+}
+
+#welcome > h1 {
+	line-height: 77px;
+}
+
+#message{
+	font-size: 1.25em;
+}
+
+#email {
+	text-align: center;
+	font-size: 1.75em;
+	margin: 15px 0;
 }
