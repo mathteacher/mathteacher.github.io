@@ -1,1 +1,5 @@
 /* custom stylesheet for jacobelstein.com */
+
+#starbird, #welcome, #email {
+	text-align: center;
+}
