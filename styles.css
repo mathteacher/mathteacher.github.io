@@ -29,6 +29,10 @@ a:hover{
 	line-height: 77px;
 }
 
+#message{
+	font-size: 1.5em;
+}
+
 #email {
 	text-align: center;
 	font-size: 1.5em;
