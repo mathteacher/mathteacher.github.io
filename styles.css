@@ -1,5 +1,10 @@
 /* custom stylesheet for jacobelstein.com */
 
+html{
+	font-size: calc(10px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  	line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+}
+
 a:link{
 	color: darkblue;
 }
@@ -14,6 +19,10 @@ a:hover{
 
 #starbird, #welcome {
 	text-align: center;
+}
+
+#starbird {
+	margin: 25px auto;
 }
 
 #welcome > h1 {
