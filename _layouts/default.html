@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Jacob Elstein">
+    
+    {% if page.title == 'Home' %}
+      <meta name="description" content="Personal Website of Jacob Elstein">
+    {% else %}
+      <meta name="description" content="Personal Website of Jacob Elstein - {{ page.title }}">
+    {% endif %}
+    
+    {% if page.title == 'Home' %}
+      <title>Jacob Elstein .Com</title>
+    {% else %}
+      <title>{{ page.title }} - Jacob Elstein .Com</title>
+    {% endif %}
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="styles.css" rel="stylesheet">
+  </head>
+
+  <body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
