@@ -2,7 +2,9 @@
   link: /
 - name: About
   link: /about.html
-- name: Essays
-  link: /essays.html
 - name: Code
   link: /code.html
+- name: Essays
+  link: /essays.html
+- name: Recipes
+  link: /recipes.html
