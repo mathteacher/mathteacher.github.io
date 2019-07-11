@@ -7,19 +7,21 @@ a,
 a:focus,
 a:hover {
   color: #000;
+  text-decoration: underline;
 }
 
 /*
  * Base structure
  */
 
-html,
-body {
+html {
   height: 100%;
   background-color: #fff;
 }
 
 body {
+  min-height: 100%;
+  background-color: #fff;
   display: -ms-flexbox;
   display: flex;
   color: #000;
@@ -27,8 +29,26 @@ body {
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
 
+h1 {
+  margin-bottom: .5em;
+}
+
+.nav {
+  margin-bottom: 2em;
+}
+
 .cover-container {
   max-width: 42em;
+}
+
+.post-subtitle {
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+.post-linkback {
+  text-align: center;
+  font-size: 1.2em;
 }
 
 /*
@@ -48,6 +68,7 @@ body {
   color: rgba(0, 0, 0, .5);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
+  text-decoration: none;
 }
 
 .nav-masthead .nav-link:hover,
