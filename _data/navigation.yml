@@ -3,8 +3,8 @@
 - name: About
   link: /about.html
 - name: Code
-  link: /code.html
-- name: Essays
-  link: /essays.html
-- name: Recipes
-  link: /recipes.html
+  link: https://www.github.com/mathteacher
+#- name: Essays
+#  link: /essays.html
+#- name: Recipes
+#  link: /recipes.html
