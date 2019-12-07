@@ -3,3 +3,5 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:title
+
+exclude: [templates]

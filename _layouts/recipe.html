@@ -1,6 +1,7 @@
 ---
 layout: item
 ---
+
 <h5>{{ page.source_verbage }}: {{ page.source | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
 <h5>First Posted: {{ page.first_posted }}</h5>
 {% if page.last_updated != "never" %}<h5>Last Updated: {{ page.last_updated }}</h5>{% endif %}
