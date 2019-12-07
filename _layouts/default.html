@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body class="text-center">
+    <div class="cover-container d-flex w-100 p-3 mx-auto flex-column">
+      {% include header.html %}
+      <main role="main" class="text-left inner cover">
+        <h1 class="cover-heading">{{ page.title }}</h1>
+        {{ content }}
+      </main> 
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

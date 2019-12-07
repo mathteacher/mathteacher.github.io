@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "GPA Simulator"
-category: Code
-github: mathteacher/gpa_simulator
-web: www.jacobelstein.com/gpa_simulator
+layout: recipe
+title:  "Mayonaise"
+tags: ["Veggie Burger Meal", "Gluten Free"]
+source:
+source_verbage:
+last_updated:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et sodales est, vel blandit eros. Phasellus facilisis nibh augue, nec vehicula tellus venenatis nec. Nullam scelerisque ullamcorper urna a condimentum. Nulla eleifend congue erat id tempus. Ut maximus placerat feugiat. Morbi quis sagittis nisl. Suspendisse malesuada egestas mauris, ac pretium turpis tristique id. Ut laoreet est lacinia gravida congue.

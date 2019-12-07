@@ -1,10 +1,13 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /about/
+#- name: Essays
+#  link: /essays/
+- name: Recipes
+  link: /recipes/
+#- name: Projects
+#  link: /projects/
 - name: Code
   link: https://www.github.com/mathteacher
-#- name: Essays
-#  link: /essays.html
-#- name: Recipes
-#  link: /recipes.html
+

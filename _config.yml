@@ -1,0 +1,5 @@
+permalink: /:collections/:title
+
+collections:
+  recipes:
+    output: true

@@ -1,4 +1,30 @@
 ---
-layout: category
+layout: default
 title: Recipes
 ---
+
+<h3>Browse by Tag</h3>
+{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
+{% assign sorted_tags = tags | sort %}
+<ul>
+	{% for tag in sorted_tags %}
+  		<li><h5><a data-toggle="collapse" href="#collapse{{ tag | remove: ' ' }}" role="button" aria-expanded="false" aria-controls="collapse{{ tag | remove: ' ' }}">{{ tag }}</a></h5></li>
+  			<ul class="collapse" id="collapse{{ tag | remove: ' ' }}">
+			  {% for recipe in site.recipes %}
+			    {% if recipe.tags contains tag %}
+			    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+			    {% endif %}
+			  {% endfor %}
+			</ul>
+	{% endfor %}
+</ul>
+
+<h3>All Recipes</h3>
+<ul>
+	{% for recipe in site.recipes %}
+		<li>
+		  <a href="{{ recipe.url }}">{{ recipe.title }}</a> -
+		  {{ recipe.tags | split: "|" | join: ", " | remove: '"' }}
+		</li>
+	{% endfor %}
+</ul>
