@@ -14,7 +14,7 @@ last_updated: never
 	<li>1 cup brown rice</li>
 	<li>1 medium-large red beet</li>
 	<li>1 large carrot</li>
-	<li>1/3 head of purple cabbage</li>
+	<li>1/3 of a head of purple cabbage</li>
 	<li>4 tablespoons flax seed</li>
 	<li>4 tablespoons chi seed</li>
 	<li>4 tablespoons hulled hemp seed</li>

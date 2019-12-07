@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: item
 ---
-<h4>{{ page.source_verbage }}: {{ page.source | markdownify | remove: '<p>' | remove: '</p>' }}</h4>
+<h5>{{ page.source_verbage }}: {{ page.source | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
 <h5>First Posted: {{ page.first_posted }}</h5>
 {% if page.last_updated != "never" %}<h5>Last Updated: {{ page.last_updated }}</h5>{% endif %}
 <div class="recipeDiv">
 {{ content }}
 </div>
-<h5 class="returnLink"><a href="/recipes/">Return to Recipes</a></h5>
