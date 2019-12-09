@@ -3,6 +3,7 @@ layout: item
 ---
 
 <h5>{{ page.source_verbage }}: {{ page.source | markdownify | remove: '<p>' | remove: '</p>' }}</h5>
+{% if page.tags.size != 0 %}<h5>Tags: {{ page.tags | split: "|" | join: ", " | remove: '"' }}</h5>{% endif %}
 <h5>First Posted: {{ page.first_posted }}</h5>
 {% if page.last_updated != "never" %}<h5>Last Updated: {{ page.last_updated }}</h5>{% endif %}
 <div class="recipeDiv">

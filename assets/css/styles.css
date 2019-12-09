@@ -14,3 +14,7 @@
 .servingsSection {
 	margin-bottom: 1.5rem;
 }
+
+.collapseList li:last-child {
+	margin-bottom: 10px;
+}

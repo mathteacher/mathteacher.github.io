@@ -7,7 +7,7 @@ permalink: /recipes/
 <h3>Browse by Tag</h3>
 {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
 {% assign sorted_tags = tags | sort %}
-<ul>
+<ul class="collapseList">
 	{% for tag in sorted_tags %}
   		<li><h5><a data-toggle="collapse" href="#collapse{{ tag | remove: ' ' }}" role="button" aria-expanded="false" aria-controls="collapse{{ tag | remove: ' ' }}">{{ tag }}</a></h5></li>
   			<ul class="collapse" id="collapse{{ tag | remove: ' ' }}">
@@ -24,8 +24,8 @@ permalink: /recipes/
 <ul>
 	{% for recipe in site.recipes %}
 		<li>
-		  <a href="{{ recipe.url }}">{{ recipe.title }}</a> -
-		  {{ recipe.tags | split: "|" | join: ", " | remove: '"' }}
+		  <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+		  {% if recipe.tags.size != 0 %}{{ recipe.tags | split: "|" | join: ", " | remove: '"' }}{% endif %}
 		</li>
 	{% endfor %}
 </ul>

@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: 
-tags: []
-source_verbage: "Based on"
-source: "[]()" 
+title: "Sun Sauce" 
+tags: ["Vegan", "Gluten Free"]
+source_verbage: "Directly from"
+source: "[Peanut Sauce](/recipes/peanut-sauce/)" 
 first_posted: ?/?/?
 last_updated: never
 ---

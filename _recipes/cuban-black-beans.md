@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title:  "Mayonaise"
-tags: ["Veggie Burger Meal", "Gluten Free"]
-source: "[Living Villa Cappelli - Extra Virgin Olive Oil Mayo](https://www.livingvillacappelli.com/evoo-mayo/)" 
+title: "Cuban Black Beans"
+tags: ["Vegan", "Gluten Free"]
 source_verbage: "Based on"
+source: "An Ex-Girlfriend's Mother's Recipe" 
 first_posted: ?/?/?
 last_updated: never
 ---

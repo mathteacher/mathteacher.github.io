@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
 #- name: Essays
 #  link: /essays/
 - name: Recipes

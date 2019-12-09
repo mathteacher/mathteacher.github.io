@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: 
-tags: []
-source_verbage: "Based on"
-source: "[]()" 
+title: "Tempeh Taco Meat"
+tags: ["Soft Taco Meal", "Vegan", "Gluten Free"]
+source_verbage: "Invented through"
+source: "Trial and Error"
 first_posted: ?/?/?
 last_updated: never
 ---

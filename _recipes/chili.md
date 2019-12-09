@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title:  "Mayonaise"
-tags: ["Veggie Burger Meal", "Gluten Free"]
-source: "[Living Villa Cappelli - Extra Virgin Olive Oil Mayo](https://www.livingvillacappelli.com/evoo-mayo/)" 
+title: Chili
+tags: ["Vegan", "Gluten Free"]
 source_verbage: "Based on"
+source: "[Cookie and Kate - Homemade Vegetarian Chili](https://cookieandkate.com/vegetarian-chili-recipe/)"
 first_posted: ?/?/?
 last_updated: never
 ---

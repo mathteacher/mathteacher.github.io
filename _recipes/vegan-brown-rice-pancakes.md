@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title:  "Mayonaise"
-tags: ["Veggie Burger Meal", "Gluten Free"]
-source: "[Living Villa Cappelli - Extra Virgin Olive Oil Mayo](https://www.livingvillacappelli.com/evoo-mayo/)" 
+title: "Vegan Brown Rice Pancakes"
+tags: ["Breakfast for Lunch Meal", "Vegan", "Gluten Free"]
 source_verbage: "Based on"
+source: "[Brown Rice Pancakes](/recipes/brown-rice-pancakes/)" 
 first_posted: ?/?/?
 last_updated: never
 ---

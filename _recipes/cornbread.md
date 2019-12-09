@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title:  "Mayonaise"
-tags: ["Veggie Burger Meal", "Gluten Free"]
-source: "[Living Villa Cappelli - Extra Virgin Olive Oil Mayo](https://www.livingvillacappelli.com/evoo-mayo/)" 
+title: Cornbread
+tags: ["Vegan", "Gluten Free"]
 source_verbage: "Based on"
+source: "[The Pretty Bee - The Best Vegan Cornbread](https://theprettybee.com/vegan-cornbread/)" 
 first_posted: ?/?/?
 last_updated: never
 ---

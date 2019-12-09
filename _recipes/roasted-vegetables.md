@@ -1,9 +1,9 @@
 ---
 layout: recipe
-title: 
-tags: []
-source_verbage: "Based on"
-source: "[]()" 
+title: "Roasted Vegetables" 
+tags: ["Elstein Staple", "Vegan", "Gluten Free"]
+source_verbage: "Learned from"
+source: "Oral Tradition + Trial and Error"
 first_posted: ?/?/?
 last_updated: never
 ---
