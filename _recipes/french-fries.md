@@ -2,7 +2,7 @@
 layout: recipe
 title:  "French Fries"
 tags: ["Veggie Burger Meal", "Vegan", "Gluten Free"]
-source_verbage: "Based on"
+source_verbage: "Directly from"
 source: "[Spend With Pennies - Baked French Fries](https://www.spendwithpennies.com/crispy-oven-fries/)" 
 first_posted: ?/?/?
 last_updated: never

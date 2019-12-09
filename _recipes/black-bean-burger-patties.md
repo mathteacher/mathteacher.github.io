@@ -3,7 +3,7 @@ layout: recipe
 title:  "Black Bean Burger Patties"
 tags: ["Veggie Burger Meal", "Vegan", "Gluten Free"]
 source_verbage: "Inspired by"
-source: "[Marlene's](https://www.marlenesmarket-deli.com) Lentil Patties and [Inspired Taste - The Best Veggie Burger](https://www.inspiredtaste.net/36554/veggie-burger-recipe/)"
+source: "[Marlene's](https://www.marlenesmarket-deli.com) Lentil Patties"
 first_posted: ?/?/?
 last_updated: never
 ---
