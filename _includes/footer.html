@@ -4,9 +4,18 @@
 	</div>
 	
 	<!-- Makes all links to outside domains have target="_blank" -->
-	<script>
+	<script type="text/javascript">
 	    $(document.links).filter(function() {
 	     return this.hostname != window.location.hostname;
 	    }).attr('target', '_blank');
 	</script>
+
+	 <!-- Random fav link on starbird click script -->
+  	<script type="text/javascript">
+  		function changeLink() {
+  			let favLinks = {{ site.data.favlinks | jsonify }};
+  			let linkPick = favLinks[Math.floor(Math.random()*favLinks.length)].link;
+  			document.getElementById("starbirdlink").href=linkPick;
+  		}
+  	</script>
 </footer>	
