@@ -9,7 +9,7 @@ last_updated: never
 ---
 
 #### Ingredients
-- asdf
+- asdf {% include amazon.html name="" %}
 
 ##### [makes asdf]
 {:.servingsSection}
