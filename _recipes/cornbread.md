@@ -2,7 +2,7 @@
 layout: recipe
 title: Cornbread
 tags: ["Vegan", "Gluten Free"]
-source_verbage: "Based on"
+source_verbage: "Directly from"
 source: "[The Pretty Bee - The Best Vegan Cornbread](https://theprettybee.com/vegan-cornbread/)" 
 first_posted: ?/?/?
 last_updated: never

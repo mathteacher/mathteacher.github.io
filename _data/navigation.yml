@@ -1,9 +1,9 @@
 - name: Home
   link: /
-#- name: Essays
-#  link: /essays/
 - name: Recipes
   link: /recipes/
+- name: Writing
+  link: /writing/
 #- name: Projects
 #  link: /projects/
 - name: Code

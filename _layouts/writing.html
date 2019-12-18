@@ -1,0 +1,9 @@
+---
+layout: item
+---
+
+<h5>Published: {{ page.published }}</h5>
+<h5>{% if page.publishedby != "none" %}By: {{ page.publishedby | markdownify | remove: '<p>' | remove: '</p>'  }}</h5>{% endif %}
+<div class="writingDiv">
+	{{ content }}
+</div>
