@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Recipes
-  link: /recipes/
+#- name: Recipes
+#  link: /recipes/
 - name: Writing
   link: /writing/
 #- name: Projects

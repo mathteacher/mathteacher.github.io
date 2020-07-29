@@ -43,7 +43,7 @@ After teaching five additional years from the writing of the above Op-ed and aft
 
 The fact is that many, if not most, of the students that struggle to be succcesful are coming through the school doors so compromised from trauma and neglect that they are unable to engage productively in their education, even if they see the value and opportunity it holds for them.
 
-During the early years of my teaching career, Finland was often praised for its successful educational system. Yet to have any hope of achieving Findland's stellar educational outcomes, we must first look not to how the country has structured its schools, but to how it takes care of its citizens.
+During the early years of my teaching career, Finland was often praised for its successful education system. Yet to have any hope of achieving Findland's stellar educational outcomes, we must first look not to how the country has structured its schools, but to how it takes care of its citizens.
 
 Since the 1980's Finland has had a comprehensive social welfare system that ensures that no one is living in abject poverty. Until the United States decides to do the same, then I fear nothing will move the needle of our educaitonal outcomes; otherwise, we're just putting tiny pedagogical band-aids on the gaping wounds of human suffering.
 
