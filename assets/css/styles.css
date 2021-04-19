@@ -23,3 +23,6 @@
 	margin-bottom: 10px;
 }
 
+.gardeningImage img {
+	max-width: 100%;
+}

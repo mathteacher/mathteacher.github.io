@@ -2,6 +2,8 @@
   link: /
 #- name: Recipes
 #  link: /recipes/
+- name: Gardening
+  link: /gardening/
 - name: Writing
   link: /writing/
 #- name: Projects

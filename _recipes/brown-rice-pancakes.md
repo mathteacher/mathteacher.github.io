@@ -8,16 +8,13 @@ first_posted: ?/?/?
 last_updated: never
 ---
 
-
-{% include amazon.html name="Brown Rice" %}
-
 #### Ingredients
-- 1 cup {% include amazon.html name="Brown Rice" %} or {% include amazon.html name="Brown Rice Flour" %}
+- 1 cup brown rice or brown rice flour
 - 3 eggs
 - 1/2 cup milk
-- 1 tablespoon {% include amazon.html name="Olive Oil" %}
-- 1 1/2 teaspons {% include amazon.html name="Baking Powder" %}
-- 1/2 teaspoon {% include amazon.html name="Sea Salt" %}
+- 1 tablespoon olive oil
+- 1 1/2 teaspons baking powder
+- 1/2 teaspoon sea salt
 
 ##### [makes plus or minus 6 medium pancakes]
 {:.servingsSection}

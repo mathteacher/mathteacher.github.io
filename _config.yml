@@ -1,5 +1,8 @@
 
 collections:
+  gardening:
+    output: true
+    permalink: /gardening/:title
   recipes:
     output: true
     permalink: /recipes/:title
