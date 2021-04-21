@@ -26,3 +26,12 @@
 .gardeningImage img {
 	max-width: 100%;
 }
+
+.gardeningImage {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.gardeningTopParagraph {
+	margin-top: 2em;
+}
