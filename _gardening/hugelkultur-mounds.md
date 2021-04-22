@@ -14,7 +14,7 @@ Many people when building hugelkultur mounds will dig up any sod, put it aside, 
 ![yard with cardboard](/assets/images/gardening/hugelkultur/mounds02.jpeg)
 {: .gardeningImage}
 
-The first stage of building the mounds was to layout a base of large logs (see the [Backyard Parking Slab page](/gardening/hugelkultur-backyard-parking-slab) for more details about the types and origins of the wood).
+The first stage of building the mounds was to layout a base of large logs (see the [Materials page](/gardening/hugelkultur-materials) for more details about the types and origins of the wood).
 
 ![single mound initial large logs](/assets/images/gardening/hugelkultur/mounds03.jpeg)
 {: .gardeningImage}
@@ -30,15 +30,47 @@ The next stage was to add medium sized logs and then all different sized branche
 ![all mounds smaller logs and sticks](/assets/images/gardening/hugelkultur/mounds06.jpeg)
 {: .gardeningImage}
 
-After recieving a chip drop (see the [Backyard Parking Slab page](/gardening/hugelkultur-backyard-parking-slab) for details), I then spread a really thick layer of arborist wood chips in the pathways between the mounds.
+After recieving a chip drop (see the [Materials page](/gardening/hugelkultur-materials) for details), I then spread a really thick layer of arborist wood chips in the pathways between the mounds.
 
 ![paths around mounds covered with thick layer of wood chips](/assets/images/gardening/hugelkultur/mounds07.jpeg)
 {: .gardeningImage}
 
-I added the last bit of wood chips on top of the mounds to try and fill in the gaps, and then added the first layer of Tagro Mix (see the [Backyard Parking Slab page](/gardening/hugelkultur-backyard-parking-slab) for details), which is comparable to steer manure.
+I added the last bit of wood chips on top of the mounds to try and fill in the gaps, and then added the first layer of Tagro Mix (see the [Materials page](/gardening/hugelkultur-materials) for details), which is comparable to steer manure.
 
-![paths around mounds covered with thick layer of wood chips](/assets/images/gardening/hugelkultur/mounds08.jpg)
+![single mound with first layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds08.jpg)
 {: .gardeningImage}
 
-![paths around mounds covered with thick layer of wood chips](/assets/images/gardening/hugelkultur/mounds09.jpg)
+![all mounds with first layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds09.jpg)
+{: .gardeningImage}
+
+Next I added a layer of saw chips (little bits of wood in between wood chips and saw dust in size). I was able to get them for free through the Craigslist free listings.
+
+![single mound with saw chips](/assets/images/gardening/hugelkultur/mounds10.jpg)
+{: .gardeningImage}
+
+![all mounds with saw chips](/assets/images/gardening/hugelkultur/mounds11.jpg)
+{: .gardeningImage}
+
+A second layer of Tagro Mix.
+
+![single mound with second layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds12.jpg)
+{: .gardeningImage}
+
+![all mounds with second layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds13.jpg)
+{: .gardeningImage}
+
+Next a layer of rotting leaves. I don't have any large trees in my yard, but my neighbors were more than happy to let Sara and I rake up their leaves last fall. I compressed them down in plastic totes, so even though it doesn't look like a lot of leaves the layer you see is actually really dense.
+
+![single mound with leaves](/assets/images/gardening/hugelkultur/mounds14.jpg)
+{: .gardeningImage}
+
+![all mounds with leaves](/assets/images/gardening/hugelkultur/mounds15.jpg)
+{: .gardeningImage}
+
+A third layer of Tagro Mix.
+
+![single mound with third layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds16.jpg)
+{: .gardeningImage}
+
+![all mounds with third layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds17.jpg)
 {: .gardeningImage}
