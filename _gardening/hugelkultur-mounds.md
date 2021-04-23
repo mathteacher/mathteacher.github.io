@@ -22,7 +22,7 @@ The first stage of building the mounds was to layout a base of large logs (see t
 ![all mounds initial large logs](/assets/images/gardening/hugelkultur/mounds04.jpeg)
 {: .gardeningImage}
 
-The next stage was to add medium sized logs and then all different sized branches.
+The next stage was to add medium sized logs and all different sized branches.
 
 ![single mound smaller logs and sticks](/assets/images/gardening/hugelkultur/mounds05.jpeg)
 {: .gardeningImage}
@@ -75,7 +75,7 @@ A third layer of Tagro Mix.
 ![all mounds with third layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds17.jpg)
 {: .gardeningImage}
 
-A layer of mostly finished compost (see the [Materials page](/gardening/hugelkultur-materials) for details). This compost is full of beneficial microbes, worms, and other insects. I also applied homemade worm tea to further innoculate the mounds.
+A layer of mostly finished compost (see the [Materials page](/gardening/hugelkultur-materials) for details). This compost was full of beneficial microbes, worms, and other insects. I also applied homemade worm tea to further innoculate the mounds.
 
 ![single mound with layer of mostly finished compost](/assets/images/gardening/hugelkultur/mounds18.jpeg)
 {: .gardeningImage}
@@ -83,4 +83,4 @@ A layer of mostly finished compost (see the [Materials page](/gardening/hugelkul
 ![all mounds with layer of mostly finished compost](/assets/images/gardening/hugelkultur/mounds19.jpeg)
 {: .gardeningImage}
 
-All that's left to do now is to apply a final layer of potting soil. To allow the mounds time to age and get really full of microbes and worms, I will be planting a cover crop of crimson clover this year. Next spring I will be planting blueberries, raspberries, strawberries, asparagus, and annual vegetables.
+All that's left to do now is to apply a final layer of potting soil. To allow the mounds time to age and get really full of microbes and worms, I will be planting a cover crop of crimson clover this year. Next spring I will be planting blueberries, raspberries, marionberries, strawberries, asparagus, and lots of annual vegetables.
