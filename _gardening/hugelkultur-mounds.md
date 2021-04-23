@@ -35,7 +35,7 @@ After recieving a chip drop (see the [Materials page](/gardening/hugelkultur-mat
 ![paths around mounds covered with thick layer of wood chips](/assets/images/gardening/hugelkultur/mounds07.jpeg)
 {: .gardeningImage}
 
-I added the last bit of wood chips on top of the mounds to try and fill in the gaps, and then added the first layer of Tagro Mix (see the [Materials page](/gardening/hugelkultur-materials) for details), which is comparable to steer manure.
+I added the last bit of wood chips on top of the mounds to try and fill in the gaps, and then added the first layer of Tagro Mix (see the [Materials page](/gardening/hugelkultur-materials) for details). Tagro Mix is 50% biosolids (humanure), 25% sawdust, and 25% screened sand. The Tagro website says that it is comparable to steer manure.
 
 ![single mound with first layer of Tagro Mix](/assets/images/gardening/hugelkultur/mounds08.jpg)
 {: .gardeningImage}
