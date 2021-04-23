@@ -11,3 +11,6 @@ title:	"Hugelkultur Pots"
 
 ![pot with wood chips added](/assets/images/gardening/hugelkultur/pots03.jpeg)
 {: .gardeningImage}
+
+![pot with tagro mix](/assets/images/gardening/hugelkultur/pots04.jpeg)
+{: .gardeningImage}
