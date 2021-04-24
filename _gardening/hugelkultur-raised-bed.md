@@ -4,6 +4,7 @@ title:	"Hugelkultur Raised Bed"
 ---
 
 This project was actually my first attempt in using the hugelkultur technqiue. After much research, I purchased a [Birdies](https://birdiesgardenproducts.com) metal framed raised bed. I dug down, removing a significant amount of top soil, to allow enough space for logs and other layers of organic matter.
+{: .gardeningTopParagraph}
 
 ![empty raised bed with dirt below dug out](/assets/images/gardening/hugelkultur/bed01.jpeg)
 {: .gardeningImage}
