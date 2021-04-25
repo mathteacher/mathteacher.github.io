@@ -59,7 +59,7 @@ A second layer of TAGRO Mix.
 ![all mounds with second layer of TAGRO Mix](/assets/images/gardening/hugelkultur/mounds13.jpg)
 {: .gardeningImage}
 
-Next a layer of rotting leaves. I don't have any large trees in my yard, but my neighbors were more than happy to let Sara and I rake up their leaves last fall. I compressed them down in plastic totes, so even though it doesn't look like a lot of leaves the layer you see is actually really dense.
+Next a layer of rotting leaves. I don't have any large trees in my yard, but my neighbors were more than happy to let Sara and I rake up their leaves the prior fall. I compressed them down in plastic totes, so even though it doesn't look like a lot of leaves the layer you see is actually really dense.
 
 ![single mound with leaves](/assets/images/gardening/hugelkultur/mounds14.jpg)
 {: .gardeningImage}
