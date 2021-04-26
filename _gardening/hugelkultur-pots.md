@@ -24,4 +24,12 @@ I filled the pots nearly the rest of the way with TAGRO Mix.
 ![pot with TAGRO mix](/assets/images/gardening/hugelkultur/pots04.jpeg)
 {: .gardeningImage}
 
-Next will be some mostly finished compost, worm castings, and a thin layer of potting soil on top.
+A layer of mostly finished compost was then added.
+
+![pot with mostly finished compost](/assets/images/gardening/hugelkultur/pots05.jpeg)
+{: .gardeningImage}
+
+Followed by a thin layer of potting soil on the very top.
+
+![pot with finaly layer of potting soil](/assets/images/gardening/hugelkultur/pots06.jpeg)
+{: .gardeningImage}
