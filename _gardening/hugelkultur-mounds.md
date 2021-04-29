@@ -3,7 +3,7 @@ layout: item
 title:	"Hugelkultur Mounds"
 ---
 
-Here is the eastern half of my backyard before I began the process of building five hugelkultur mounds. A significant amount of time went into preparing this part of the yard. Two rose bushes and numerous bulbs had to be relocated. The most intense work went into removing the root systems of two previously chopped down huge bushes.
+Here is the eastern half of my backyard before I began the process of building five hugelkultur mounds. A significant amount of time went into preparing this part of the yard. Two rose bushes and numerous bulbs had to be relocated. The most intense work went into removing the stumps of two previously chopped down huge bushes.
 {: .gardeningTopParagraph}
 
 ![yard before building started](/assets/images/gardening/hugelkultur/mounds01.jpeg)
@@ -75,7 +75,7 @@ A third layer of TAGRO Mix.
 ![all mounds with third layer of TAGRO Mix](/assets/images/gardening/hugelkultur/mounds17.jpg)
 {: .gardeningImage}
 
-A layer of mostly finished compost (see the [Materials page](/gardening/hugelkultur-materials) for details). This compost was full of beneficial microbes, worms, and other insects. I also applied homemade worm tea to further innoculate the mounds.
+A layer of mostly finished compost (see the [Materials page](/gardening/hugelkultur-materials) for details), full of beneficial microbes, worms, and other insects. I also applied homemade worm tea to further innoculate the mounds.
 
 ![single mound with layer of mostly finished compost](/assets/images/gardening/hugelkultur/mounds18.jpeg)
 {: .gardeningImage}
