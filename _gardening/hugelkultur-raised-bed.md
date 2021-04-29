@@ -44,7 +44,7 @@ Finally a thin layer of Tagro Potting Soil.
 ![layer of tagro potting soil](/assets/images/gardening/hugelkultur/bed08.jpeg)
 {: .gardeningImage}
 
-This bed is intended as a location for growing vegetables that prefer partial shade since my main garden is full sun.
+The plan for this bed is to plant it out with asparagus next spring.
 
 ![finished raised bed](/assets/images/gardening/hugelkultur/bed09.jpeg)
 {: .gardeningImage}

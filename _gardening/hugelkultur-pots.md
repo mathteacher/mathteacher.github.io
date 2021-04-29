@@ -3,7 +3,7 @@ layout: item
 title:	"Hugelkultur Pots"
 ---
 
-I wanted some kind of border for my big hugelkultur mound garden on the two sides not adjacent to my fence, and the idea that I settled on was to create a border out of pots. And so of course I decided to make them into hugelkultur pots. I purchased twenty 20 gallon black plastic pots (the most expensive single purchase invovled in setting up the whole garden). At the bottom I placed medium sized logs cut down to fit the pots.
+I wanted some kind of border for my big hugelkultur mound garden on the two sides not adjacent to the fence, and the idea that I settled on was to create a border out of pots. And so of course I decided to make them into hugelkultur pots. I purchased twenty 20-gallon black plastic pots (the most expensive single purchase invovled in setting up the whole garden). At the bottom I placed medium sized logs cut down to fit the pots.
 {: .gardeningTopParagraph}
 
 ![pot with medium sized logs](/assets/images/gardening/hugelkultur/pots01.jpeg)
@@ -33,3 +33,5 @@ Followed by a thin layer of potting soil on the very top.
 
 ![pot with finaly layer of potting soil](/assets/images/gardening/hugelkultur/pots06.jpeg)
 {: .gardeningImage}
+
+Like the newly constructed hugelkultur mounds, this summer I'm going to grow a cover crop of sudan-sorghum grass in all the pots. Next spring I intend to grow all kinds of annual vegetables in them.

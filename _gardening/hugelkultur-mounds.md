@@ -83,4 +83,4 @@ A layer of mostly finished compost (see the [Materials page](/gardening/hugelkul
 ![all mounds with layer of mostly finished compost](/assets/images/gardening/hugelkultur/mounds19.jpeg)
 {: .gardeningImage}
 
-All that's left to do now is to apply a final layer of potting soil. To allow the mounds time to age and get really full of microbes and worms, I will be planting a cover crop of sudan-sorghum grass this summer. Next spring I will be planting blueberries, raspberries, marionberries, strawberries, asparagus, and lots of annual vegetables.
+A thin layer of potting soil was then applied on top of the compost. As soon as soil temperatures a warm enough, a cover crop of sudan-sorghum grass will then be planted. This will allow the mounds time to age and get really full of microbes and worms, as well as add a layer of organic matter on top of the TAGRO Mix not covered in compost. Next spring I intend to plant blueberries, raspberries, marionberries, strawberries, and lots of annual vegetables.
