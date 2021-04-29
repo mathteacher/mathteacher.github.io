@@ -44,7 +44,7 @@ Finally a thin layer of Tagro Potting Soil.
 ![layer of tagro potting soil](/assets/images/gardening/hugelkultur/bed08.jpeg)
 {: .gardeningImage}
 
-The plan for this bed is to plant it out with asparagus next spring.
+I grew spinach and arugula with moderate success in the bed this past fall/winter/spring (the arugula did pretty well, but the spinach got eaten up by something). Currently there is a cover crop of crimson clover growing, mainly just to try it out since I am very curious about cover crops. But the clover should also give a timely nitrogen boost to the bed before planting it out next spring with asparagus.
 
 ![finished raised bed](/assets/images/gardening/hugelkultur/bed09.jpeg)
 {: .gardeningImage}

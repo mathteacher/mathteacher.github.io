@@ -34,4 +34,4 @@ Followed by a thin layer of potting soil on the very top.
 ![pot with finaly layer of potting soil](/assets/images/gardening/hugelkultur/pots06.jpeg)
 {: .gardeningImage}
 
-Like the newly constructed hugelkultur mounds, this summer I'm going to grow a cover crop of sudan-sorghum grass in all the pots. Next spring I intend to grow all kinds of annual vegetables in them.
+Just like with the hugelkultur mounds, this summer I'm going to grow a cover crop of sudan-sorghum grass in all the pots. Next spring I intend to grow all kinds of annual vegetables in them.
