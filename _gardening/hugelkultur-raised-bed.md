@@ -48,3 +48,6 @@ I grew spinach and arugula with moderate success in the bed this past fall/winte
 
 ![finished raised bed](/assets/images/gardening/hugelkultur/bed09.jpeg)
 {: .gardeningImage}
+
+![finished raised bed](/assets/images/gardening/hugelkultur/bed10.jpeg)
+{: .gardeningImage}

@@ -83,4 +83,7 @@ A layer of mostly finished compost (see the [Materials page](/gardening/hugelkul
 ![all mounds with layer of mostly finished compost](/assets/images/gardening/hugelkultur/mounds19.jpeg)
 {: .gardeningImage}
 
-A thin layer of potting soil was then applied on top of the compost. As soon as soil temperatures are warm enough, a cover crop of sudan-sorghum grass will be planted. This will allow the mounds time to age and get really full of microbes and worms, as well as add a layer of organic matter on top of the TAGRO Mix not covered in compost. Next spring I intend to plant blueberries, raspberries, marionberries, strawberries, and lots of annual vegetables.
+Sudan-sorghum grass (a summer cover crop) seeds were broadcast over the four long mounds and were then covered with a thin layer of aged black bark (also from The City of Tacoma's TAGRO program though it is just bark, no biosolids). The back mound recieved a thicker layer of aged black bark and dragon's blood sedum seeds were planted on its crown.
+
+![all mounds with sudan-sorghum grass and sedum seedlings](/assets/images/gardening/hugelkultur/mounds20.jpeg)
+{: .gardeningImage}

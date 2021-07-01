@@ -31,7 +31,10 @@ A layer of mostly finished compost was then added.
 
 Followed by a thin layer of potting soil on the very top.
 
-![pot with finaly layer of potting soil](/assets/images/gardening/hugelkultur/pots06.jpeg)
+![pot with final layer of potting soil](/assets/images/gardening/hugelkultur/pots06.jpeg)
 {: .gardeningImage}
 
-Just like with the hugelkultur mounds, this summer I'm going to grow a cover crop of sudan-sorghum grass in all the pots. Next spring I intend to grow all kinds of annual vegetables in them.
+I decided to keep it simple and just do a crop of bush beans (orca beans for drying) in all the pots this first summer. I'm planning to then plant a cover crop of crimson clover late summer after I harvest the beans.
+
+![pots with bush beans growing](/assets/images/gardening/hugelkultur/pots07.jpeg)
+{: .gardeningImage}
